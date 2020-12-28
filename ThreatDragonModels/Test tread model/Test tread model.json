@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "title": "Test tread model",
+    "owner": "dkrzyszko"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "dkrzyszko"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "First",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
